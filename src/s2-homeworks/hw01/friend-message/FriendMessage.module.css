@@ -53,7 +53,8 @@
 }
 
 .friendTime {
-    position: absolute;
+   text-align: left;
+    margin-left: 12px;
     margin-top:5px ;
     left:30px;
     font-family: 'Montserrat';

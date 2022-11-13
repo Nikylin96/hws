@@ -30,7 +30,7 @@
 .text:after {
     position: absolute;
     content: '';
-    left: 460px;
+    right: -14px;
     top: 33px;
     border-bottom: 15px solid #0066CC;
     border-right: 22px solid transparent;
@@ -53,9 +53,9 @@
 }
 
 .time {
-    position: absolute;
+    text-align: right;
+    margin-right: 12px;
     margin-top:5px ;
-    left:700px;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;
